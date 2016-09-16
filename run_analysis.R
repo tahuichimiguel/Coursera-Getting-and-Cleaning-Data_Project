@@ -4,17 +4,15 @@ library(data.table)
 library(reshape2)
 
 #Test Data
-setwd('/Users/Mikey/Desktop/Getting & Cleaning Data/Course Project/UCI HAR Dataset/test')
-  subject_test<-read.table('subject_test.txt')
-  test_set<-read.table('X_test.txt')
-  test_labels<-read.table('y_test.txt')
+  subject_test<-read.table('test/subject_test.txt')
+  test_set<-read.table('test/X_test.txt')
+  test_labels<-read.table('test/y_test.txt')
   test_dat<-data.frame(subject_test,test_labels,test_set)
   
 #Train Data
-  setwd('/Users/Mikey/Desktop/Getting & Cleaning Data/Course Project/UCI HAR Dataset/train')
-  subject_train<-read.table('subject_train.txt')
-  train_set<-read.table('X_train.txt')
-  train_labels<-read.table('y_train.txt')
+  subject_train<-read.table('train/subject_train.txt')
+  train_set<-read.table('train/X_train.txt')
+  train_labels<-read.table('train/y_train.txt')
   train_dat<-data.frame(subject_train,train_labels,train_set)
   
 #Combined - Create Combined Data Frame {No Meaningful Column Labels}
