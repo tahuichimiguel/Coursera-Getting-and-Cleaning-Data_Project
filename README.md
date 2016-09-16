@@ -1,7 +1,7 @@
 # Getting and Cleaning Data Course Project
 
 The project files consist of 3 files
-      (1) Course_Project_Code.R
+      (1) run_analysis.R
       (2) Mikhail_Lara_Project_Output.txt
       (3) Codebook
 
