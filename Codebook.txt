@@ -1,0 +1,195 @@
+ subject 
+	- Subject Identification Number
+	- Values Range from 1-30
+ activity 
+	- Physical activity subject performed during the reported mean readings
+	- Factor Variable with 6 Levels: LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS
+
+ TimeDomain_BodyAcc_mean_X 
+	- Mean time domain accelerometer reading for body acceleration in the x-direction
+ TimeDomain_BodyAcc_mean_Y 
+	- Mean time domain accelerometer reading for body acceleration in the y-direction
+ TimeDomain_BodyAcc_mean_Z 
+	- Mean time domain accelerometer reading for body acceleration in the z-direction
+
+ TimeDomain_BodyAcc_std_X 
+	- Mean standard deviation of time domain accelerometer reading for body acceleration in the x-direction
+ TimeDomain_BodyAcc_std_Y 
+	- Mean standard deviation of time domain accelerometer reading for body acceleration in the y-direction
+ TimeDomain_BodyAcc_std_Z 
+	- Mean standard deviation of time domain accelerometer reading for body acceleration in the z-direction
+
+ TimeDomain_GravityAcc_mean_X 
+	- Mean time domain accelerometer reading for gravitational acceleration in the x-direction
+ TimeDomain_GravityAcc_mean_Y 
+	- Mean time domain accelerometer reading for gravitational acceleration in the y-direction
+ TimeDomain_GravityAcc_mean_Z 
+	- Mean time domain accelerometer reading for gravitational acceleration in the z-direction
+
+ TimeDomain_GravityAcc_std_X 
+	- Mean standard deviation of time domain accelerometer reading for gravitational acceleration in the x-direction
+ TimeDomain_GravityAcc_std_Y 
+	- Mean standard deviation of time domain accelerometer reading for gravitational acceleration in the y-direction
+ TimeDomain_GravityAcc_std_Z 
+	- Mean standard deviation of time domain accelerometer reading for gravitational acceleration in the z-direction
+
+ TimeDomain_BodyAccJerk_mean_X 
+	- Mean time domain accelerometer reading for body acceleration jerk in the x-direction
+ TimeDomain_BodyAccJerk_mean_Y 
+	- Mean time domain accelerometer reading for body acceleration jerk in the y-direction
+ TimeDomain_BodyAccJerk_mean_Z 
+	- Mean time domain accelerometer reading for body acceleration jerk in the z-direction
+
+
+ TimeDomain_BodyAccJerk_std_X 
+	- Mean standard deviation of time domain accelerometer reading for body acceleration jerk in the x-direction
+ TimeDomain_BodyAccJerk_std_Y 
+	- Mean standard deviation of time domain accelerometer reading for body acceleration jerk in the y-direction
+ TimeDomain_BodyAccJerk_std_Z 
+	- Mean standard deviation of time domain accelerometer reading for body acceleration jerk in the z-direction
+
+
+ TimeDomain_BodyGyro_mean_X 
+	- Mean time domain gyroscope reading for body rotational acceleration in the x-direction
+ TimeDomain_BodyGyro_mean_Y 
+	- Mean time domain gyroscope reading for body rotational acceleration in the y-direction
+ TimeDomain_BodyGyro_mean_Z 
+	- Mean time domain gyroscope reading for body rotational acceleration in the z-direction
+
+ TimeDomain_BodyGyro_std_X 
+	- Mean standard deviation of time domain gyroscope reading for body rotational acceleration in the x-direction
+ TimeDomain_BodyGyro_std_Y 
+	- Mean standard deviation of time domain gyroscope reading for body rotational acceleration in the y-direction
+ TimeDomain_BodyGyro_std_Z 
+	- Mean standard deviation of time domain gyroscope reading for body rotational acceleration in the z-direction
+
+ TimeDomain_BodyGyroJerk_mean_X 
+	- Mean time domain gyroscope reading for body rotational jerk in the x-direction
+ TimeDomain_BodyGyroJerk_mean_Y 
+	- Mean time domain gyroscope reading for body rotational jerk in the y-direction
+ TimeDomain_BodyGyroJerk_mean_Z 
+	- Mean time domain gyroscope reading for body rotational jerk in the z-direction
+
+ TimeDomain_BodyGyroJerk_std_X 
+	- Mean standard deviation of time domain gyroscope reading for body rotational jerk in the x-direction
+ TimeDomain_BodyGyroJerk_std_Y 
+	- Mean standard deviation of time domain gyroscope reading for body rotational jerk in the y-direction
+ TimeDomain_BodyGyroJerk_std_Z 
+	- Mean standard deviation of time domain gyroscope reading for body rotational jerk in the z-direction
+
+ TimeDomain_BodyAccMag_mean
+	- Mean calculated time domain body acceleration magnitude 
+ TimeDomain_BodyAccMag_std 
+	- Mean standard deviation of calculated time domain body acceleration magnitude 
+
+ TimeDomain_GravityAccMag_mean 
+	- Mean calculated time domain gravitational acceleration magnitude 
+ TimeDomain_GravityAccMag_std 
+	- Mean standard deviation of calculated time domain body acceleration magnitude 
+
+ TimeDomain_BodyAccJerkMag_mean 
+	- Mean calculated time domain gravitational acceleration magnitude 
+ TimeDomain_BodyAccJerkMag_std 
+	- Mean standard deviation of calculated time domain gravitational acceleration magnitude 
+
+ TimeDomain_BodyGyroMag_mean
+	- Mean calculated time domain gravitational rotational acceleration magnitude 
+ TimeDomain_BodyGyroMag_std 
+	- Mean standard deviation of calculated time domain gravitational rotational acceleration magnitude 
+
+ TimeDomain_BodyGyroJerkMag_mean 
+	- Mean calculated time domain gravitational rotational jerk magnitude 
+ TimeDomain_BodyGyroJerkMag_std 
+	- Mean standard deviation of calculated time domain gravitational rotational jerk magnitude 
+
+ FrequencyDomain_BodyAcc_mean_X 
+	- Mean frequency domain accelerometer reading for body acceleration in the x-direction
+ FrequencyDomain_BodyAcc_mean_Y 
+	- Mean frequency domain accelerometer reading for body acceleration in the y-direction
+ FrequencyDomain_BodyAcc_mean_Z 
+	- Mean frequency domain accelerometer reading for body acceleration in the z-direction
+
+ FrequencyDomain_BodyAcc_std_X 
+	- Mean standard deviation of frequency domain accelerometer reading for body acceleration in the x-direction
+ FrequencyDomain_BodyAcc_std_Y 
+	- Mean standard deviation of frequency domain accelerometer reading for body acceleration in the y-direction
+ FrequencyDomain_BodyAcc_std_Z 
+	- Mean standard deviation of frequency domain accelerometer reading for body acceleration in the z-direction
+
+ FrequencyDomain_BodyAcc_meanFreq_X 
+	- Mean standard deviation of frequency domain accelerometer reading for body acceleration in the x-direction
+ FrequencyDomain_BodyAcc_meanFreq_Y 
+	- Mean standard deviation of frequency domain accelerometer reading for body acceleration in the y-direction
+ FrequencyDomain_BodyAcc_meanFreq_Z 
+	- Mean standard deviation of frequency domain accelerometer reading for body acceleration in the z-direction
+
+ FrequencyDomain_BodyAccJerk_mean_X 
+	- Mean frequency domain accelerometer reading for body acceleration jerk in the x-direction
+ FrequencyDomain_BodyAccJerk_mean_Y 
+	- Mean frequency domain accelerometer reading for body acceleration jerk in the y-direction
+ FrequencyDomain_BodyAccJerk_mean_Z
+	- Mean frequency domain accelerometer reading for body acceleration jerk in the z-direction
+
+ FrequencyDomain_BodyAccJerk_std_X 
+	- Mean standard deviation of frequency domain accelerometer reading for body acceleration jerk in the x-direction
+ FrequencyDomain_BodyAccJerk_std_Y 
+	- Mean standard deviation of frequency domain accelerometer reading for body acceleration jerk in the y-direction
+ FrequencyDomain_BodyAccJerk_std_Z 
+	- Mean standard deviation of frequency domain accelerometer reading for body acceleration jerk in the z-direction
+
+ FrequencyDomain_BodyAccJerk_meanFreq_X 
+	- Mean standard deviation of frequency domain accelerometer reading for body acceleration jerk in the x-direction
+ FrequencyDomain_BodyAccJerk_meanFreq_Y 
+	- Mean standard deviation of frequency domain accelerometer reading for body acceleration jerk in the y-direction
+ FrequencyDomain_BodyAccJerk_meanFreq_Z 
+	- Mean standard deviation of frequency domain accelerometer reading for body acceleration jerk in the z-direction
+
+ FrequencyDomain_BodyGyro_mean_X 
+	- Mean frequency domain gyroscope reading for body rotational jerk in the x-direction
+ FrequencyDomain_BodyGyro_mean_Y 
+	- Mean frequency domain gyroscope reading for body rotational jerk in the y-direction
+ FrequencyDomain_BodyGyro_mean_Z 
+	- Mean frequency domain gyroscope readings for body rotational jerk in the z-direction
+
+ FrequencyDomain_BodyGyro_std_X 
+	- Mean standard deviation of frequency domain gyroscope reading for body rotational jerk in the x-direction
+ FrequencyDomain_BodyGyro_std_Y 
+	- Mean standard deviation of frequency domain gyroscope reading for body rotational jerk in the y-direction
+ FrequencyDomain_BodyGyro_std_Z 
+	- Mean standard deviation of frequency domain gyroscope reading for body rotational jerk in the z-direction
+
+ FrequencyDomain_BodyGyro_meanFreq_X 
+	- Mean frequency domain gyroscope reading for body rotational acceleration in the x-direction
+ FrequencyDomain_BodyGyro_meanFreq_Y 
+	- Mean frequency domain gyroscope reading for body rotational acceleration in the y-direction
+ FrequencyDomain_BodyGyro_meanFreq_Z 
+	- Mean frequency domain gyroscope reading for body rotational acceleration in the z-direction
+
+ FrequencyDomain_BodyAccMag_mean
+	- Mean calculated frequency domain body acceleration magnitude 
+ FrequencyDomain_BodyAccMag_std 
+	- Mean standard deviation of calculated frequency domain body acceleration magnitude 
+ FrequencyDomain_BodyAccMag_meanFreq 
+	- Mean of mean frequencies for body acceleration magnitude 
+
+ FrequencyDomain_BodyBodyAccJerkMag_mean 
+	- Mean calculated frequency domain body jerk magnitude 
+ FrequencyDomain_BodyBodyAccJerkMag_std 
+	- Mean standard deviation of calculated frequency domain body jerk magnitude 
+ FrequencyDomain_BodyBodyAccJerkMag_meanFreq 
+	- Mean of mean frequencies for body jerk magnitude 
+
+ FrequencyDomain_BodyBodyGyroMag_mean 
+	- Mean calculated frequency domain body rotational acceleration magnitude 
+ FrequencyDomain_BodyBodyGyroMag_std 
+	- Mean standard deviation of calculated frequency domain body rotational acceleration magnitude 
+ FrequencyDomain_BodyBodyGyroMag_meanFreq 
+	- Mean of mean frequencies for body rotational acceleration magnitude 
+ 
+ FrequencyDomain_BodyBodyGyroJerkMag_mean 
+	- Mean calculated frequency domain body rotational acceleration magnitude 
+ FrequencyDomain_BodyBodyGyroJerkMag_std 
+	- Mean standard deviation of calculated frequency domain body rotational acceleration magnitude 
+ FrequencyDomain_BodyBodyGyroJerkMag_meanFreq 
+	- Mean of mean frequencies for body rotational acceleration magnitude 
+
